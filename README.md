@@ -17,6 +17,12 @@ My goal is to develop latent abilities, raise knowledge already gained and enact
 ### Projects
 Currently my day job consume too much of my time, also most of the stuff I'm working cannot be disclosed as defined by contract, so there's not much to show.
 
+### Stats
+![Alexmxplik's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmzplik&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexmzplik&layout=compact)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmzplik)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Where you can find me, aka Social Media Stuff
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aprendizarrojado/)](https://www.linkedin.com/in/aprendizarrojado) - just as a job contact plataform, there's not much posted as it is time consuming.
 
