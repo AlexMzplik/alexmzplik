@@ -21,6 +21,11 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 ![Alexmxplik's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmzplik&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexmzplik&layout=compact)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmzplik)](https://github.com/anuraghazra/github-readme-stats)
