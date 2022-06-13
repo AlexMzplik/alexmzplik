@@ -23,9 +23,10 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```text
-SQL          8 hrs 37 mins   ██████████████████████▓░░   90.36 %
-JavaScript   54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+SQL          13 hrs 44 mins  ███████████████████████░░   92.12 %
+JavaScript   1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+CSV/TSV      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
