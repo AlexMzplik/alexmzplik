@@ -18,16 +18,8 @@ My goal is to develop latent abilities, raise knowledge already gained and enact
 Currently my day job consume too much of my time, also most of the stuff I'm working cannot be disclosed as defined by contract, so there's not much to show.
 
 ### Stats
+[![wakatime](https://wakatime.com/badge/user/96ad896a-b98b-455b-ba7a-6b5ea7cb0f30.svg)](https://wakatime.com/@96ad896a-b98b-455b-ba7a-6b5ea7cb0f30)
 <!--START_SECTION:waka-->
-
-```text
-SQL          17 hrs 44 mins  ████████████████████░░░░░   79.67 %
-JavaScript   4 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   19.96 %
-Python       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
 
 <!--END_SECTION:waka-->
 ![Alexmxplik's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmzplik&layout=compact)
