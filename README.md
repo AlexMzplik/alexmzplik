@@ -18,8 +18,6 @@ My goal is to develop latent abilities, raise knowledge already gained and enact
 Currently my day job consume too much of my time, also most of the stuff I'm working cannot be disclosed as defined by contract, so there's not much to show.
 
 ### Stats
-![Alexmxplik's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmzplik&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexmzplik&layout=compact)](https://git.io/streak-stats)
 <!--START_SECTION:waka-->
 
 ```text
@@ -32,7 +30,8 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+![Alexmxplik's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmzplik&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexmzplik&layout=compact)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmzplik)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Where you can find me, aka Social Media Stuff
