@@ -21,6 +21,15 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 [![wakatime](https://wakatime.com/badge/user/96ad896a-b98b-455b-ba7a-6b5ea7cb0f30.svg)](https://wakatime.com/@96ad896a-b98b-455b-ba7a-6b5ea7cb0f30)
 <!--START_SECTION:waka-->
 
+```text
+SQL          14 hrs 27 mins  ███████████████████░░░░░░   75.66 %
+JavaScript   4 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Python       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 ![Alexmxplik's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmzplik&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexmzplik&layout=compact)](https://git.io/streak-stats)
