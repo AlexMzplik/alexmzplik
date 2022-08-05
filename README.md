@@ -42,6 +42,7 @@ JSON         6 mins          ░░░░░░░░░░░░░░░░░
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/alexmzplik)](https://www.youtube.com/user/alexmzplik) - a bit old videos, but it has some of my artistical rampants.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alexmzplik)](https://twitter.com/alexmzplik) - a bit of therapeutic space for me.
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AlexMzplik/alexmzplik/blob/master/devcard.svg" width="400" alt="Alex Mzplik's Dev Card"/></a>
 
 <!--
