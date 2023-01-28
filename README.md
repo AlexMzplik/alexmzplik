@@ -22,12 +22,11 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 28 mins  ████████████▓░░░░░░░░░░░░   50.27 %
-SQL          12 hrs 10 mins  ██████████░░░░░░░░░░░░░░░   39.54 %
-JSON         2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-JavaScript   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-tsconfig     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-yarn.lock    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   12 hrs 34 mins  ████████████░░░░░░░░░░░░░   47.95 %
+SQL          12 hrs 31 mins  ████████████░░░░░░░░░░░░░   47.74 %
+JavaScript   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+tsconfig     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
