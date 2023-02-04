@@ -22,11 +22,11 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 30 mins  █████████████████▒░░░░░░░   69.86 %
-JavaScript   2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
-SQL          2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-JSON         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-tsconfig     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+TypeScript   17 hrs 28 mins  ██████████████████▓░░░░░░   74.02 %
+JavaScript   2 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+JSON         2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+SQL          1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+tsconfig     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
