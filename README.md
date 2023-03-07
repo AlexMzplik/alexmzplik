@@ -27,7 +27,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-![Alexmxplik's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmzplik&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexmzplik&layout=compact)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmzplik)](https://github.com/anuraghazra/github-readme-stats)
 
