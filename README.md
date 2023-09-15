@@ -22,9 +22,9 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```txt
-SQL      5 hrs 1 min     ████████████████████████▓   98.64 %
-Prolog   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-INI      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+SQL      4 hrs 28 mins   ████████████████████████▓   98.48 %
+Prolog   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+INI      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
