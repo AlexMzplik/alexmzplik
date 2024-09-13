@@ -22,10 +22,8 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          3 hrs 31 mins   █████████████▓░░░░░░░░░░░   54.85 %
-TypeScript   2 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   43.31 %
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-yarn.lock    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SQL          6 hrs 49 mins   ██████████████████▒░░░░░░   73.12 %
+TypeScript   2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
 ```
 
 <!--END_SECTION:waka-->
