@@ -22,9 +22,7 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         3 hrs 57 mins   ███████████████████▒░░░░░   77.25 %
-TypeScript   1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
