@@ -22,7 +22,9 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL         2 hrs 13 mins   ██████████████████░░░░░░░   72.06 %
+YAML        46 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
+Batchfile   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
