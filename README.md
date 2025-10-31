@@ -22,7 +22,7 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
