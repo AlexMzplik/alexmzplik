@@ -22,9 +22,9 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         16 hrs 24 mins  █████████████████▓░░░░░░░   70.00 %
-SQL          6 hrs 54 mins   ███████▒░░░░░░░░░░░░░░░░░   29.49 %
-JavaScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Dart         16 hrs 28 mins  ████████████████▒░░░░░░░░   65.76 %
+SQL          7 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   31.92 %
+JavaScript   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
