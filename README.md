@@ -23,7 +23,7 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 
 ```txt
 SQL              13 hrs 34 mins        ██████████████████████▒░░   89.81 %
-JavaScript       47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+JavaScript       47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 Bash             34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 Dart             9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 Shell Script     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
