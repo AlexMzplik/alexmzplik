@@ -22,11 +22,11 @@ Currently my day job consume too much of my time, also most of the stuff I'm wor
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          12 hrs 49 mins        ███████████████░░░░░░░░░░   59.67 %
-JavaScript   2 hrs 37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
-TypeScript   2 hrs 20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Other        2 hrs 11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Markdown     1 hr                  █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+SQL          18 hrs 7 mins         ████████████████████▒░░░░   81.67 %
+TypeScript   2 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Markdown     59 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Other        41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+JavaScript   10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
